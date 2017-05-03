@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ofear\\Desktop\\FlatMates_0.5\\201628724_305329815\\Source\\FlatMates\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\ofear\\.android\\build-cache\\57e81ff88842f34b9a3f6bc9e18e2c3fc1c8f592\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

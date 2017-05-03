@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="8dp"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/recepits_image"
+        android:layout_weight="0.82"
+        android:layout_gravity="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="7dp"
+        android:layout_marginTop="4dp">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="Details"
+             android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+             android:textSize="15dp"
+             android:textColor="#000000"
+             android:id="@+id/text_details"
+             />
+        </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

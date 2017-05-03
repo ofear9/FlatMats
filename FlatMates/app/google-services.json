@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201761159332",
+    "firebase_url": "https://flatmates-6b9c6.firebaseio.com",
+    "project_id": "flatmates-6b9c6",
+    "storage_bucket": "flatmates-6b9c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201761159332:android:3bed44faf206e535",
+        "android_client_info": {
+          "package_name": "com.example.ranendelman.flatmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201761159332-ciq20d3kv2iiochemjbeu6fbca6k8m8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ranendelman.flatmates",
+            "certificate_hash": "15a619665a1978e7fdcd07324c53c1447aef52d3"
+          }
+        },
+        {
+          "client_id": "201761159332-tif6mna95qvbskgb18rusehi1mc1lhfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuW_94lYD0wNHWPsRlWjxUzB8O3_cZfCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201761159332-tif6mna95qvbskgb18rusehi1mc1lhfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

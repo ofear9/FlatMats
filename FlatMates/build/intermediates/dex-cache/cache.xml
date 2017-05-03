@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ofear\.android\build-cache\b96c556536e54e4b05b80904a8367ddfe740cfed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c4666dace900dff30e343a7393ff9bd4da54d5c\classes.dex" />
+    </item>
+
+</items>

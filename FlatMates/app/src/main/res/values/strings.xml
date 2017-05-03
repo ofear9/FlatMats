@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlatMates</string>
+    <string name="invalid_email_or_password">Please enter valid Email and Password</string>
+    <string name="unmatched_password">Passwords does not match</string>
+    <string name="sign_up_succeeded">Sign up succeeded!</string>
+    <string name="sign_in_succeeded">You are now signed in!</string>
+    <string name="logged_out">Logged out!</string>
+    <string name="facebook_app_id">428448637546943</string>
+    <string name="user_not_exist">User name or email address you entered does not exist!</string>
+    <string name="mate_added_to_flat">New Mate added to your flat!</string>
+</resources>

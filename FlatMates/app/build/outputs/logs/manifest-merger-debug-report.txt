@@ -1,0 +1,497 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\ofear\.android\build-cache\aa5d9fcf676cc9f3ceb12dedce5104903a1f9aee\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\ofear\.android\build-cache\cf4de23defd4a9be001235a13ba40ef246233e65\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\ofear\.android\build-cache\fc51c746c1f5ee3939fbf0d6477b095e1fbcdaff\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\01eaf639eabba0482af3f95f37924cfeb2dc62fc\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:11:19-67
+application
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:13:5-42:19
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\ofear\.android\build-cache\ea9efde89b390037bcf5e54ea42a12d82cd01695\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\ofear\.android\build-cache\19f5a8c25b46d5b1d1262290f63131d994826a60\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\ofear\.android\build-cache\a861c7bb5bee1c5326362b862b1fbc595c9a5d38\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\ofear\.android\build-cache\c40265e0fc2404b57bc9c96b0b3dd2fdd35571fc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\ofear\.android\build-cache\aadf6f1113379451abb76769b01123a7d64debcb\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\ofear\.android\build-cache\4c455bc0c818019473131cdad0ae2a7428ff5bf3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\ofear\.android\build-cache\aa5d9fcf676cc9f3ceb12dedce5104903a1f9aee\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\ofear\.android\build-cache\8ad0e7d23c0b77312a969b5a6fe3d8db072ed724\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\ofear\.android\build-cache\55ab64445437fbe46867c12d3875f7e955e765db\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\ofear\.android\build-cache\e602ad0d3564d1b25312f64a2c3ddb475d5db10f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\ofear\.android\build-cache\2aca056e258719aa672f67e4aef7fe0cfdf0643f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\ofear\.android\build-cache\cf4de23defd4a9be001235a13ba40ef246233e65\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\ofear\.android\build-cache\dbc554feaac1badcbe606c3be5a8ed9f4ac5f268\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\ofear\.android\build-cache\fc51c746c1f5ee3939fbf0d6477b095e1fbcdaff\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\ofear\.android\build-cache\1ae8b0f847024cc070592980a6c8915be604ef52\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\ofear\.android\build-cache\483013b3c13c1bb4af6ba1b30f561dceac742187\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\ofear\.android\build-cache\c0c6e5e6f9c2b0b7da363eb3f6eb5110d2a81908\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\ofear\.android\build-cache\6d6bfca557879f8e8e77c657d69dbbfb00688456\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\ofear\.android\build-cache\1dfba23ab21d019f24f7bc62ed632c7ac1fdae59\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\ofear\.android\build-cache\7572c16b96b7f513b2d639db004c3453c8eb8fb7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\ofear\.android\build-cache\b609d01fde70ba3b2ddc62e8abaf66f2da347240\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\01eaf639eabba0482af3f95f37924cfeb2dc62fc\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\ofear\.android\build-cache\09722adc7fe641dc365228a354f1b41173b39ea9\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\ofear\.android\build-cache\030afc9ab2684cb80d6c5b00d291bfa0f120acd7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\ofear\.android\build-cache\26dc034491b29613f971d4e1d7273d73a71a8efc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\ofear\.android\build-cache\141a50419a83e490fe6a3e486cddd59ac0a60097\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\ofear\.android\build-cache\0d9797934f0b1e6cc2acb142e8bf6394522106ea\output\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\ofear\.android\build-cache\dfe64e3415dd1e0e3f22b4008de1cfd439171e11\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.2.1] C:\Users\ofear\.android\build-cache\6f6ffd9a2a7c59a9af830aab5917cf4e94190c18\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.0.1] C:\Users\ofear\.android\build-cache\83221e990072163f290e083df59d768a5f25dc1d\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ofear\.android\build-cache\8f0a07dfc893e05ef2bb7adeeeaca225ecf91bde\output\AndroidManifest.xml:9:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\ofear\.android\build-cache\9fa902f8591b9c45ef92c0637163f0b5ae37d624\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ofear\.android\build-cache\6c0650700030fce3b8da7a7446d8e44e3e2f243d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ofear\.android\build-cache\7fb689ef401e9a1a05e3c8ac2bd900c4f885c95b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ofear\.android\build-cache\58af5998edf7f6495c00b12d0eade703da18a74c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\ofear\.android\build-cache\260d259f0893dcd284295d5d12addd4b5ae8c61e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\ofear\.android\build-cache\7ba5925734048958139baf4240fe594e46c49f41\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\ofear\.android\build-cache\7179c494f7fd89e5b06f415ed405055035c52291\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ofear\.android\build-cache\0e6e737fca15348eefdacfd4461bbe879999d4ef\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ofear\.android\build-cache\ccd1f3b9d0665a9ff6ba8f9580d6480fcae62172\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ofear\.android\build-cache\efafe33759bf010bc5646b69c8dbe4c20e1feb8c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ofear\.android\build-cache\44742c39f6f24237d55479294b1c33fccf960d4c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ofear\.android\build-cache\9c9311d449b1c7e2a35e120a8911a0ad9c542992\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ofear\.android\build-cache\020ea6eab88fb41523f26712e9e29d6f7f99d743\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:19:9-21:55
+	android:value
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:20:13-58
+activity#com.example.ranendelman.flatmates.Activities.LogInActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:23:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:30:9-34:75
+	android:label
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:31:13-57
+activity#com.example.ranendelman.flatmates.Activities.SignUpActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:35:9-63
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:35:19-60
+activity#com.example.ranendelman.flatmates.Activities.UserHomeScreenActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:36:9-71
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:36:19-68
+activity#com.example.ranendelman.flatmates.Activities.SuperMarketListActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:37:9-72
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:37:19-69
+activity#com.example.ranendelman.flatmates.Activities.FaultesActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:38:19-61
+activity#com.example.ranendelman.flatmates.Activities.ReceiptsActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:39:19-62
+activity#com.example.ranendelman.flatmates.Activities.ContactsActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:40:9-65
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:40:19-62
+activity#com.example.ranendelman.flatmates.Activities.EventsActivity
+ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:41:9-72
+	android:name
+		ADDED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml:41:19-60
+uses-sdk
+INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\ofear\.android\build-cache\ea9efde89b390037bcf5e54ea42a12d82cd01695\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\ofear\.android\build-cache\b9010ef096e1d363cd7b40f14f8e290450c514b2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\ofear\.android\build-cache\d873730c3203c14211cd93c5b7f16241372885ca\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\ofear\.android\build-cache\19f5a8c25b46d5b1d1262290f63131d994826a60\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\ofear\.android\build-cache\a861c7bb5bee1c5326362b862b1fbc595c9a5d38\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\ofear\.android\build-cache\c40265e0fc2404b57bc9c96b0b3dd2fdd35571fc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\ofear\.android\build-cache\aadf6f1113379451abb76769b01123a7d64debcb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\ofear\.android\build-cache\4c455bc0c818019473131cdad0ae2a7428ff5bf3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\ofear\.android\build-cache\aa5d9fcf676cc9f3ceb12dedce5104903a1f9aee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\ofear\.android\build-cache\8ad0e7d23c0b77312a969b5a6fe3d8db072ed724\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\ofear\.android\build-cache\55ab64445437fbe46867c12d3875f7e955e765db\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\ofear\.android\build-cache\e602ad0d3564d1b25312f64a2c3ddb475d5db10f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\ofear\.android\build-cache\2aca056e258719aa672f67e4aef7fe0cfdf0643f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\ofear\.android\build-cache\cf4de23defd4a9be001235a13ba40ef246233e65\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\ofear\.android\build-cache\dbc554feaac1badcbe606c3be5a8ed9f4ac5f268\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\ofear\.android\build-cache\fc51c746c1f5ee3939fbf0d6477b095e1fbcdaff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\ofear\.android\build-cache\603b3592790f628c66c823be74fe702d7dc70b6d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\ofear\.android\build-cache\1ae8b0f847024cc070592980a6c8915be604ef52\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\ofear\.android\build-cache\483013b3c13c1bb4af6ba1b30f561dceac742187\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\ofear\.android\build-cache\c0c6e5e6f9c2b0b7da363eb3f6eb5110d2a81908\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\ofear\.android\build-cache\6d6bfca557879f8e8e77c657d69dbbfb00688456\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\ofear\.android\build-cache\1dfba23ab21d019f24f7bc62ed632c7ac1fdae59\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\ofear\.android\build-cache\7572c16b96b7f513b2d639db004c3453c8eb8fb7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\ofear\.android\build-cache\2b2487c70e299aed3880f9474f9ae0b8095ffe61\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\ofear\.android\build-cache\b609d01fde70ba3b2ddc62e8abaf66f2da347240\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\01eaf639eabba0482af3f95f37924cfeb2dc62fc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\ofear\.android\build-cache\09722adc7fe641dc365228a354f1b41173b39ea9\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\ofear\.android\build-cache\7e46b0b295fc4430f69459672a83d58f5f4d4078\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\ofear\.android\build-cache\030afc9ab2684cb80d6c5b00d291bfa0f120acd7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\ofear\.android\build-cache\26dc034491b29613f971d4e1d7273d73a71a8efc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\ofear\.android\build-cache\141a50419a83e490fe6a3e486cddd59ac0a60097\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ofear\.android\build-cache\b96c556536e54e4b05b80904a8367ddfe740cfed\output\AndroidManifest.xml:18:5-42
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\ofear\.android\build-cache\0d9797934f0b1e6cc2acb142e8bf6394522106ea\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\ofear\.android\build-cache\dfe64e3415dd1e0e3f22b4008de1cfd439171e11\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:23.2.1] C:\Users\ofear\.android\build-cache\6f6ffd9a2a7c59a9af830aab5917cf4e94190c18\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\ofear\.android\build-cache\fccd36ff429a836524daf88768b16fbc292b24d3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\ofear\.android\build-cache\688e4e0cb08e88cc1baaba7963b85a3b4e199fa8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.firebaseui:firebase-ui-storage:1.0.1] C:\Users\ofear\.android\build-cache\0878940741bf792034a64f8ca5a3c93963c5287b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:palette-v7:25.0.1] C:\Users\ofear\.android\build-cache\83221e990072163f290e083df59d768a5f25dc1d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\ofear\.android\build-cache\dabbf8449d55fcf1079ac35f82df4ac8ba68f7da\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\ofear\.android\build-cache\189e440e61d199d7d00217f1a67f8c07eaefafda\output\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ofear\.android\build-cache\8f0a07dfc893e05ef2bb7adeeeaca225ecf91bde\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\ofear\.android\build-cache\9fa902f8591b9c45ef92c0637163f0b5ae37d624\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lzyzsd.randomcolor:library:1.0.0] C:\Users\ofear\.android\build-cache\3e9ab43cbf3a41025f8c9534b38ec5347ec3bcab\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ofear\.android\build-cache\6c0650700030fce3b8da7a7446d8e44e3e2f243d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\ofear\.android\build-cache\7fb689ef401e9a1a05e3c8ac2bd900c4f885c95b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\ofear\.android\build-cache\58af5998edf7f6495c00b12d0eade703da18a74c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\ofear\.android\build-cache\260d259f0893dcd284295d5d12addd4b5ae8c61e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\ofear\.android\build-cache\7ba5925734048958139baf4240fe594e46c49f41\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\ofear\.android\build-cache\7179c494f7fd89e5b06f415ed405055035c52291\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\ofear\.android\build-cache\0e6e737fca15348eefdacfd4461bbe879999d4ef\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\ofear\.android\build-cache\ccd1f3b9d0665a9ff6ba8f9580d6480fcae62172\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\ofear\.android\build-cache\efafe33759bf010bc5646b69c8dbe4c20e1feb8c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\ofear\.android\build-cache\44742c39f6f24237d55479294b1c33fccf960d4c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\ofear\.android\build-cache\9c9311d449b1c7e2a35e120a8911a0ad9c542992\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\ofear\.android\build-cache\020ea6eab88fb41523f26712e9e29d6f7f99d743\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\ofear\.android\build-cache\6c0650700030fce3b8da7a7446d8e44e3e2f243d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ofear\Desktop\FlatMates_0.5\201628724_305329815\Source\FlatMates\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\ofear\.android\build-cache\483013b3c13c1bb4af6ba1b30f561dceac742187\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\01eaf639eabba0482af3f95f37924cfeb2dc62fc\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\ofear\.android\build-cache\613dedf3243510e6d3aaaf06a4af618aaf39de6a\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\01eaf639eabba0482af3f95f37924cfeb2dc62fc\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\ofear\.android\build-cache\859747c1bc174d0f4051bce49e7b3db5b4cfb410\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\ofear\.android\build-cache\d04c4e6fec8ef96cb167d22ff0fbc5c26fe7c90d\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\ofear\.android\build-cache\2a7bec9b2e94c24f0394ae11ed5bb63ddcd1885d\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\ofear\.android\build-cache\b5b1e07d9e450d4141b0b5bfa566fd609843244c\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\ofear\.android\build-cache\12bfc7f71f779382d7f95c96340d32e6087bbe13\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\ofear\.android\build-cache\cf4de23defd4a9be001235a13ba40ef246233e65\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\ofear\.android\build-cache\fc51c746c1f5ee3939fbf0d6477b095e1fbcdaff\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\ofear\.android\build-cache\cf4de23defd4a9be001235a13ba40ef246233e65\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\ofear\.android\build-cache\3ae181e6cbf582e3f78caf22c27954f900d8ecee\output\AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\ofear\.android\build-cache\b2f480026941476d7dad7c0857cb0100213459a9\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\ofear\.android\build-cache\27943e743e95ee42a78fa507c4618b38efd9711e\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\ofear\.android\build-cache\93cdef93a93f87d6509c321d161deb99e03ccd64\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\ofear\.android\build-cache\ea8b7156b9c39c1862c8ab011403b9045a339617\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\ofear\.android\build-cache\9b4160126a3e722a6eadb8a26eb0d62970045e8b\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\ofear\.android\build-cache\d2f852d071f136e3a2b758f7778f7203fc33c038\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\ofear\.android\build-cache\7179c494f7fd89e5b06f415ed405055035c52291\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\ofear\.android\build-cache\7179c494f7fd89e5b06f415ed405055035c52291\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\ofear\.android\build-cache\7179c494f7fd89e5b06f415ed405055035c52291\output\AndroidManifest.xml:20:20-65
